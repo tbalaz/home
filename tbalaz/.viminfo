@@ -7,9 +7,18 @@
 
 # hlsearch on (H) or off (h):
 ~h
+<<<<<<< HEAD
 # Command Line History (newest to oldest):
 :wq!
 :q
+=======
+# Last Substitute String:
+$
+
+# Command Line History (newest to oldest):
+:wq!
+:q!
+>>>>>>> babb98c464ddef42989e94fe9ed4f35039c61af0
 
 # Search String History (newest to oldest):
 
@@ -20,6 +29,7 @@
 # Input Line History (newest to oldest):
 
 # Registers:
+<<<<<<< HEAD
 ""0	LINE	0
 	file3
 
@@ -55,11 +65,119 @@
 -'  2  0  /home/test/file.txt
 -'  1  0  /home/test/file.txt
 -'  2  0  /home/test/file.txt
+=======
+
+# File marks:
+'0  1  1  /home/test2/file
+'1  1  0  /home/test/file.txt
+'2  1  0  /home/.git/config
+'3  7  0  /home/.git
+'4  1  14  /home/test2/file3.txt
+'5  1  0  /test/file.txt
+
+# Jumplist (newest first):
+-'  1  1  /home/test2/file
+-'  1  0  /home/test/file.txt
+-'  1  0  /home/.git/config
+-'  7  0  /home/.git
+-'  1  14  /home/test2/file3.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  14  /home/test2/file3.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  7  0  /home/.git
+-'  1  14  /home/test2/file3.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  14  /home/test2/file3.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /home/.git/config
+-'  7  0  /home/.git
+-'  1  14  /home/test2/file3.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  14  /home/test2/file3.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  7  0  /home/.git
+-'  1  14  /home/test2/file3.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  14  /home/test2/file3.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /home/.git/config
+-'  7  0  /home/.git
+-'  1  14  /home/test2/file3.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  14  /home/test2/file3.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  7  0  /home/.git
+-'  1  14  /home/test2/file3.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  14  /home/test2/file3.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /home/.git/config
+-'  7  0  /home/.git
+-'  1  0  /home/test/file.txt
+-'  1  0  /home/.git/config
+-'  7  0  /home/.git
+-'  1  14  /home/test2/file3.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  14  /home/test2/file3.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  7  0  /home/.git
+-'  1  14  /home/test2/file3.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+-'  1  14  /home/test2/file3.txt
+-'  1  0  /test/file.txt
+-'  1  0  /test/file.txt
+>>>>>>> babb98c464ddef42989e94fe9ed4f35039c61af0
 -'  1  0  /home/test/file.txt
 
 # History of marks within files (newest to oldest):
 
 > /home/test2/file
+<<<<<<< HEAD
 	"	6	0
 	^	6	0
 	.	5	1
@@ -102,3 +220,24 @@
 	^	2	0
 	.	2	4
 	+	2	4
+=======
+	"	1	1
+	^	1	2
+	.	1	1
+	+	1	1
+
+> /home/test/file.txt
+	"	1	0
+
+> /home/.git/config
+	"	1	0
+
+> /home/test2/file3.txt
+	"	1	14
+	^	1	15
+	.	1	14
+	+	1	14
+
+> /test/file.txt
+	"	1	0
+>>>>>>> babb98c464ddef42989e94fe9ed4f35039c61af0
